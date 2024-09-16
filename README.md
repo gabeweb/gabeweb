@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Currently listening to](https://lastfm-profile-readme.vercel.app/api/gabeweb?color=1c1f26&textColor=D8D8D8&isRounded=true&displayName=true&apikey=518602081119232574d506e55f6d2892)
+
 <!--
 **gabeweb/gabeweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
