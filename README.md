@@ -10,6 +10,11 @@
 <a href="https://discord.com/users/466586135964024832" target="_blank" title="Discord"><img src="https://lanyard.cnrad.dev/api/466586135964024832" /></a>
 <br>
 <sub>[lanyard-profile-readme](https://lanyard-profile-readme.vercel.app/) by [Phineas](https://github.com/Phineas/lanyard)</sub>
+<br>
+<br>
+<a href="https://www.duolingo.com/profile/gabeweb" target="_blank" title="Duolingo Stats"><img src="https://duolingo-stats-card.vercel.app/api?username=gabeweb&sort=xp" alt="Duolingo Stats"/></a>
+<br>
+<sub>[Duolingo-Stats-Cards](https://duolingo-stats-card.vercel.app/) by [KevzPeter](https://github.com/KevzPeter/Duolingo-Stats-Card)</sub>
 
 </div>
 <!--
