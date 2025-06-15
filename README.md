@@ -22,7 +22,7 @@
 <li><a href="https://github.com/Monochromish/lastfm-profile-readme" target="_blank">Last.fm Profile Readme</a> by <a href="https://github.com/Monochromish" target="_blank">Monochromish</a></li><br>
 <li><a href="https://lanyard-profile-readme.vercel.app/" target="_blank">lanyard-profile-readme</a> by <a href="https://github.com/Phineas/lanyard" target="_blank">Phineas</a></li><br>
 <li><a href="https://duolingo-stats-card.vercel.app/" target="_blank">Duolingo-Stats-Cards</a> by <a href="https://github.com/KevzPeter/Duolingo-Stats-Card/" target="_blank">KevzPeter</a></li><br>
-<li><a href="https://trakt-widgets.vercel.app/" target="_blank">Trakt Widgets2</a> by <a href="https://github.com/pizidavi/Trakt-Widgets-2" target="_blank">pizidavi</a></li></sub>
+<li><a href="https://trakt-widgets.vercel.app/" target="_blank">Trakt Widgets<sup>2</sup></a> by <a href="https://github.com/pizidavi/Trakt-Widgets-2" target="_blank">pizidavi</a></li></sub>
 
 <!--
 **gabeweb/gabeweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
