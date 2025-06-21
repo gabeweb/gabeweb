@@ -4,7 +4,7 @@
 <table>
   <thead>
   <tr>
-    <td colspan="2"><a href="https://gabeweb.neocities.org/stuff/nowplayingwall" target="_blank" title="#NowPlaying"><img src="https://lastfm-profile-readme.vercel.app/api/gabeweb?color=1c1f26&textColor=D8D8D8&isRounded=true&apikey=518602081119232574d506e55f6d2892"></a></td>
+    <td colspan="2"><a href="https://gabeweb.neocities.org/stuff/nowplayingwall" target="_blank" title="#NowPlaying"><img src="https://lastfm-profile-readme.vercel.app/api/gabeweb?color=1c1f26&textColor=D8D8D8&isRounded=true&apikey=518602081119232574d506e55f6d2892&displayName=true"></a></td>
   </tr>
   </thead>
   <tbody>
